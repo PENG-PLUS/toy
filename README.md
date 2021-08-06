@@ -4,3 +4,5 @@
 * AllInOnePasswordRecoveryPro v7.0.0.1
 * MagicEXIF v1.10.1331
 * Proxifier PE v4.05
+* Passper for 全家桶
+    1
