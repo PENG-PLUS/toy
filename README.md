@@ -7,6 +7,7 @@
 * iMyFone AnyRecover v5.2.1
 * Orion File Recovery Plus v1.11
 * Source Insight v4.00.0120
+* 数码小站 v0.1.1
 * Passper for 全家桶 (Word/Excel/PPT/PDF/RAR/ZIP v3.6.1,WinSenior v2.1.0)
 * XenArmor All-In-One Password Recovery Pro v7.0.0.1
 * XenArmor All-In-One Key Finder Pro v8.0.0.1
